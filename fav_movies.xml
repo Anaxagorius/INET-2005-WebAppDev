@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+  <movie>
+    <title>The Lord of the Rings: The Fellowship of the Ring</title>
+    <picture>https://upload.wikimedia.org/wikipedia/en/f/fb/Lord_Rings_Fellowship_Ring.jpg</picture>
+    <director>Peter Jackson</director>
+    <main_actor>Elijah Wood</main_actor>
+    <imdb>https://www.imdb.com/title/tt0120737/</imdb>
+    <year>2001</year>
+    <genre>Adventure, Drama, Fantasy</genre>
+  </movie>
+  <movie>
+    <title>The Lord of the Rings: The Two Towers</title>
+    <picture>https://upload.wikimedia.org/wikipedia/en/a/a1/Lord_Rings_Two_Towers.jpg</picture>
+    <director>Peter Jackson</director>
+    <main_actor>Elijah Wood</main_actor>
+    <imdb>https://www.imdb.com/title/tt0167261/</imdb>
+    <year>2002</year>
+    <genre>Adventure, Drama, Fantasy</genre>
+  </movie>
+  <movie>
+    <title>The Lord of the Rings: The Return of the King</title>
+    <picture>https://upload.wikimedia.org/wikipedia/en/4/48/Lord_Rings_Return_King.jpg</picture>
+    <director>Peter Jackson</director>
+    <main_actor>Elijah Wood</main_actor>
+    <imdb>https://www.imdb.com/title/tt0167260/</imdb>
+    <year>2003</year>
+    <genre>Adventure, Drama, Fantasy</genre>
+  </movie>
+  <movie>
+    <title>John Wick</title>
+    <picture>https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg</picture>
+    <director>Chad Stahelski</director>
+    <main_actor>Keanu Reeves</main_actor>
+    <imdb>https://www.imdb.com/title/tt2911666/</imdb>
+    <year>2014</year>
+    <genre>Action, Crime, Thriller</genre>
+  </movie>
+  <movie>
+    <title>Die Hard</title>
+    <picture>https://upload.wikimedia.org/wikipedia/en/c/ca/Die_Hard_%281988_film%29_poster.jpg</picture>
+    <director>John McTiernan</director>
+    <main_actor>Bruce Willis</main_actor>
+    <imdb>https://www.imdb.com/title/tt0095016/</imdb>
+    <year>1988</year>
+    <genre>Action, Thriller</genre>
+  </movie>
+  <movie>
+    <title>Avengers: Infinity War</title>
+    <picture>https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg</picture>
+    <director>Anthony Russo, Joe Russo</director>
+    <main_actor>Robert Downey Jr.</main_actor>
+    <imdb>https://www.imdb.com/title/tt4154756/</imdb>
+    <year>2018</year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+  </movie>
+  <movie>
+    <title>Avengers: Endgame</title>
+    <picture>https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg</picture>
+    <director>Anthony Russo, Joe Russo</director>
+    <main_actor>Robert Downey Jr.</main_actor>
+    <imdb>https://www.imdb.com/title/tt4154796/</imdb>
+    <year>2019</year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+  </movie>
+  <movie>
+    <title>Thor: Ragnarok</title>
+    <picture>https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg</picture>
+    <director>Taika Waititi</director>
+    <main_actor>Chris Hemsworth</main_actor>
+    <imdb>https://www.imdb.com/title/tt3501632/</imdb>
+    <year>2017</year>
+    <genre>Action, Adventure, Comedy</genre>
+  </movie>
+  <movie>
+    <title>Terminator 2: Judgment Day</title>
+    <picture>https://upload.wikimedia.org/wikipedia/en/5/5e/Terminator_2-Judgment_Day.png</picture>
+    <director>James Cameron</director>
+    <main_actor>Arnold Schwarzenegger</main_actor>
+    <imdb>https://www.imdb.com/title/tt0103064/</imdb>
+    <year>1991</year>
+    <genre>Action, Sci-Fi, Thriller</genre>
+  </movie>
+  <movie>
+    <title>Blade</title>
+    <picture>https://upload.wikimedia.org/wikipedia/en/1/19/Blade_movie.jpg</picture>
+    <director>Stephen Norrington</director>
+    <main_actor>Wesley Snipes</main_actor>
+    <imdb>https://www.imdb.com/title/tt0120611/</imdb>
+    <year>1998</year>
+    <genre>Action, Horror, Sci-Fi</genre>
+  </movie>
+</movies>
